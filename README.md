@@ -6,6 +6,8 @@ I'm a Computer Science student at Alexandria National University, interested in 
 
 I'm currently developing my skills in **AI automation with n8n, Natural Language Processing (NLP), and full-stack web development**, while building practical projects that connect AI models, APIs, databases, and business workflows.
 
+Take a look at my portifolio: https://menna-hamed-portifolio.vercel.app/
+
 ---
 
 ### 🚀 What I'm Working On
